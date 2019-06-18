@@ -6,3 +6,4 @@ merge demo - 1
 TAG demo - 1
 stash demo
 stash demo
+JIRA and GIT Demo
