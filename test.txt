@@ -5,3 +5,4 @@ merge demo - 3
 merge demo - 1
 TAG demo - 1
 stash demo
+stash demo
