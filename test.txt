@@ -7,3 +7,5 @@ TAG demo - 1
 stash demo
 stash demo
 JIRA and GIT Demo
+demo - wednesday - git
+sanket commit
