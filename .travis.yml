@@ -1,1 +1,8 @@
 script: bash script.sh
+notifications:
+    webhooks: https://travis-for-jira-prod.toolsplus.app/travis/notifications?token=16d4bce0-4148-3a24-9eae-361a1b61de47
+    on_success: always
+    on_failure: always
+    on_start: always
+    on_cancel: always
+    on_error: always
